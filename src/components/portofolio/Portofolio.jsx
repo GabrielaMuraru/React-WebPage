@@ -1,7 +1,8 @@
 import React from 'react'
 import './portofolio.css'
 
-const Portofolio = () => {
+const Portofolio = () => 
+{
   return (
     <section id='portofolio'>Portofolio</section>
   )
